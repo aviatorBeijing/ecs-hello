@@ -6,7 +6,7 @@
         "s3:GetObject"
       ],
       "Effect": "Allow",
-      "Resource": "arn:aws:s3:::UUU-ecs-hello/ecs.config"
+      "Resource": "arn:aws:s3:::USERNAME-ecs-hello/ecs.config"
     }
   ]
 }
